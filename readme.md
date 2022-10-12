@@ -16,8 +16,9 @@ LICENS: [MIT](./licence.md)
 6. [git status](./status.md)
 7. [git commit](./commit.md)
 8. [git push](./push.md)
-9. 
-
+9. [git fetch, git merge, git pull](./pull.md)
+10. [Получение данных из репозитория](./data.md)
+11. [Заключение](./fin.md)
 
 
 
