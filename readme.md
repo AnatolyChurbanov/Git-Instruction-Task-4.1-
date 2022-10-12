@@ -12,6 +12,11 @@ LICENS: [MIT](./licence.md)
 2. [git config](./config.md)
 3. [.gitignore](./ignore.md)
 4. [git init](./init.md)
+5. [git add](./add.md)
+6. [git status](./status.md)
+7. [git commit](./commit.md)
+8. [git push](./push.md)
+9. 
 
 
 
