@@ -9,8 +9,9 @@ LICENS: [MIT](./licence.md)
 ### Содержание:
 
 1. [Что такое Git](./intro.md)
-2. git config
-3. 
+2. [git config](./config.md)
+3. [.gitignore](./ignore.md)
+4. [git init](./init.md)
 
 
 
